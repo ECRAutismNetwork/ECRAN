@@ -9,3 +9,14 @@ github_username:  ECRAutismNetwork
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-cayman
+
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
+  - events.md
+  - contact.md
+  - join.md
