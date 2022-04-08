@@ -1,0 +1,11 @@
+# basic options
+title: ECRAN
+author: Alexandra Lautarescu
+email: alexandra.lautarescu@kcl.ac.uk
+description: Early Career Researcher Autism Network
+twitter_username: to add
+github_username:  ECRAutismNetwork
+
+# Build settings
+markdown: kramdown
+theme: minima
