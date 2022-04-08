@@ -2,13 +2,13 @@
 
 The Early Career Researcher Autism Network (ECRAN) is ...
 
-**[About](/ECRAN/README.md)
+[About](/ECRAN/README.md)
 
-**[Events](/ECRAN/Events.md)
+[Events](/ECRAN/Events.md)
 
-**[Contact us](/ECRAN/Contact.md)
+[Contact us](/ECRAN/Contact.md)
 
-**[Join ECRAN](/ECRAN/Join.md)
+[Join ECRAN](/ECRAN/Join.md)
 
 
 <!--
