@@ -2,13 +2,11 @@
 
 The Early Career Researcher Autism Network (ECRAN) is ...
 
-[Events](/ECRAN/Events.md)
+[Events](/ECRAN/events.md)
 
-[Contact us](/ECRAN/Contact.md)
+[Contact us](/ECRAN/contact.md)
 
-[Join ECRAN](/ECRAN/Join.md)
-
-[About](/ECRAN/README.md)
+[Join ECRAN](/ECRAN/join.md)
 
 <!--
 **ECRAutismNetwork/ecrautismnetwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
